@@ -1,5 +1,6 @@
 - `main` and `master` branches?
 - `app` and `pages` routes?
+
 - can't go back on signup page
 - after signup go to welcome page
 - can't go to signup page from signin page

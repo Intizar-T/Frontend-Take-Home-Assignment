@@ -42,7 +42,7 @@ export default function signUp() {
 
     return (
         <div className="flex items-center justify-center minh-h-screen">
-            
+            <a href="/">{"<"}</a>
             <div className="w-full max-w-md p-8">
                 <div className="flex justify-center mb-15">
                     <Image
