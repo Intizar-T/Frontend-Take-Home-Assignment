@@ -37,7 +37,7 @@ export default function signUp() {
 
 
         localStorage.setItem("user", JSON.stringify(form));
-        router.push("/signin");
+        router.push("/welcome");
     };
 
     return (
