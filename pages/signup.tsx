@@ -81,7 +81,7 @@ export default function signUp() {
                     </div>
 
                     {error && <p className="font-bold text-red-500 text-l">{error}</p>}
-
+                    <a href="/signin">Already have an account? Please Sign In by clicking on this.</a>
                     <button type="submit" className="w-full p-3 mt-5 text-white bg-black rounded-xl hover:bg-gray-950">Sign Up</button>
                 </form>
             </div>

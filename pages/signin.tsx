@@ -59,7 +59,7 @@ export default function signIn() {
                     </div>
 
                     {error && <p className="text-sm text-red-500">{error}</p>}
-
+                    <a href="/signin">Already have an account? Please Sign up by clicking on this.</a>
                     <button type="submit" className="w-full p-3 text-white bg-gray-950 rounded-xl mt-7">Log In</button>
                 </form>
 
